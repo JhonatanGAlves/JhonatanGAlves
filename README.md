@@ -5,7 +5,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonatangalves/)
 
 ### Sobre mim
-👨‍🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC Botucatu - 5/6 | Estudando Desenvolvimento Web Full-Stack em B7Web.</br>
+🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC Botucatu - 5/6</br>
+📝 Estudando Desenvolvimento Web Full-Stack em B7Web.</br>
 👨‍💻 Estagiário de desenvolvimento web na [ElevenUp](https://elevenup.com.br/)</br></br>
 
 ### Conhecimento em:
