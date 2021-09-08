@@ -7,7 +7,7 @@
 ### Sobre mim
 🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC Botucatu - 5/6</br>
 📝 Estudando Desenvolvimento Web Full-Stack em B7Web.</br>
-👨‍💻 Estagiário de desenvolvimento web na [ElevenUp](https://www.intelie.com/)</br></br>
+👨‍💻 Estagiário de desenvolvimento web na [Intelie](https://www.intelie.com/)</br></br>
 
 ### Conhecimento em:
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://alunos.b7web.com.br/media/certificates/certificado_2730535.jpg)
