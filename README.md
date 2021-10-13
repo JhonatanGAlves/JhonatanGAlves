@@ -6,7 +6,7 @@
 
 ### About me
 🎓 Attending Technologist in Systems Analysis and Development at FATEC Botucatu - 5/6</br>
-📝 Estudando Desenvolvimento Web Full-Stack em Danki Code.</br>
+📝 Studying Full-Stack Web Development at Danki Code.</br>
 👨‍💻 Web development intern at [Intelie](https://www.intelie.com/)</br></br>
 
 ### Knowledge in:
