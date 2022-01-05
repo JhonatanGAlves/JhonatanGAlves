@@ -5,8 +5,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonatangalves/)
 
 ### About me
-🎓 Attending Technologist in Systems Analysis and Development at FATEC Botucatu - 5/6</br>
-📝 Studying Full-Stack Web Development at Danki Code.</br>
+🎓 Attending Technologist in Systems Analysis and Development at FATEC Botucatu - 6/6</br>
+📝 Studying Full-Stack Web Development at B7 Web.</br>
 👨‍💻 Web development intern at [Intelie](https://www.intelie.com/)</br></br>
 
 ### Knowledge in:
