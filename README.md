@@ -7,7 +7,7 @@
 ### About me
 🎓 Attending Technologist in Systems Analysis and Development at FATEC Botucatu - 6/6</br>
 📝 Studying Full-Stack Web Development at [Rocketseat](https://www.rocketseat.com.br/).</br>
-👨‍💻 Software developer intern at [Intelie by Viasat](https://www.intelie.ai/)</br></br>
+👨‍💻 Jr. Software Developer at [Intelie by Viasat](https://www.intelie.ai/)</br></br>
 
 ### Knowledge in:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
