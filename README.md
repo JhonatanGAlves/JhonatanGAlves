@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonatangalves/)
 
 ### About me
-🎓 Attending Technologist in Systems Analysis and Development at FATEC Botucatu - 6/6</br>
+🎓 Graduated in Systems Analysis and Development at FATEC Botucatu</br>
 📝 Studying Full-Stack Web Development at [Rocketseat](https://www.rocketseat.com.br/).</br>
 👨‍💻 Jr. Software Developer at [Intelie by Viasat](https://www.intelie.ai/)</br></br>
 
