@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatangalves96@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonatangalves/)
 
-### About me
+### About me:
 🎓 Graduated in Systems Analysis and Development at FATEC Botucatu</br>
 📝 Studying Full-Stack Web Development at [Rocketseat](https://www.rocketseat.com.br/).</br>
 👨‍💻 Jr. Software Developer at [Intelie by Viasat](https://www.intelie.ai/)</br></br>
