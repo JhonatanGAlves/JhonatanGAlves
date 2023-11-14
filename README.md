@@ -6,7 +6,7 @@
 
 ### About me:
 🎓 Graduated in Systems Analysis and Development at FATEC Botucatu</br>
-📝 Studying Full-Stack Web Development at [Rocketseat](https://www.rocketseat.com.br/).</br>
+📝 Studying Full-Stack Web Development at [Rocketseat](https://www.rocketseat.com.br/)</br>
 👨‍💻 Jr. Software Developer at [Intelie by Viasat](https://www.intelie.ai/)</br></br>
 
 ### Knowledge in:
