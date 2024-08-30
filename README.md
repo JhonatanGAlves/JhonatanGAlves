@@ -1,5 +1,6 @@
 # Hello! 👋
 
+[![Portfolio Badge](https://img.shields.io/badge/PORTFOLIO-8047F8?style=for-the-badge&logo=codeium&logoColor=white)](https://jhonatandev-alves-app.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-gabriel-alves-11b28015b/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatangalves96@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonatangalves/)
