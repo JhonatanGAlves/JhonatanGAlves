@@ -8,7 +8,7 @@
 ### About me:
 🎓 Graduated in Systems Analysis and Development at FATEC Botucatu</br>
 📝 Studying Full-Stack Web Development at [Full Stack Club](https://lp.fullstackclub.com.br/)</br>
-👨‍💻 Jr. Software Developer at [Intelie by Viasat](https://www.intelie.ai/)
+👨‍💻 Pleno II Software Developer at [Tabia Health](https://www.tabia.health/)
 
 ### Knowledge in:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
