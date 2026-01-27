@@ -7,7 +7,7 @@
 
 ### About me:
 🎓 Graduated in Systems Analysis and Development at FATEC Botucatu</br>
-📝 Studying Full-Stack Web Development at [Full Stack Club](https://lp.fullstackclub.com.br/)</br>
+📝 Cursing post graduation degree in Pós Tech Developer 360 at [Rocketseat](https://ftr.rocketseat.com.br/)</br>
 👨‍💻 Pleno II Software Developer at [Tabia Health](https://www.tabia.health/)
 
 ### Knowledge in:
