@@ -8,7 +8,7 @@
 ### About me:
 🎓 Graduated in Systems Analysis and Development at FATEC Botucatu</br>
 📝 Post graduated degree in Pos Tech Developer 360 at [Rocketseat](https://ftr.rocketseat.com.br/)</br>
-👨‍💻 Mid-level Software Developer at [Pipefy](https://www.pipefy.com/)
+👨‍💻 Mid-level Software Engineer at [Pipefy](https://www.pipefy.com/)
 
 ### Knowledge in:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
